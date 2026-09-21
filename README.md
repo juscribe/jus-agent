@@ -1,3 +1,4 @@
-# jus-agent
+  # jus-agent
 
-Remote dispatch agent for Juscribe. See [INSTALL.md](https://github.com/juscribe/jus-agent/releases) for download instructions.
+  Superseded by [jus-dispatch](https://github.com/juscribe/jus-dispatch) — this repository is
+  archived and the current `jus` binary is released there.
